@@ -1,0 +1,57 @@
+header {
+    background: white;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: rgb(222, 217, 217);
+    margin: 0px;
+    padding-bottom: 40px;
+}
+
+.header-right-photo {
+    color: grey;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.header-photo {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+.body {
+    background: white;
+    display: block;
+    justify-content: center;
+    padding: 0px;
+    width: 500px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    background: white;
+}
+
+background: white;
+}
